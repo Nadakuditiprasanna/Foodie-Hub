@@ -1,2 +1,0 @@
-# Foodie-Hub
-Foodie application 
